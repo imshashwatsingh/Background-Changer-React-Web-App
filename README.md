@@ -1,57 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Background Changer</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      padding: 0;
-      background-color: #f9f9f9;
-      color: #333;
-      padding: 20px;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    code {
-      background-color: #eef;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    pre {
-      background: #f4f4f4;
-      padding: 10px;
-      border: 1px solid #ddd;
-      border-radius: 5px;
-      overflow-x: auto;
-    }
-    a {
-      color: #3498db;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    ul {
-      padding-left: 20px;
-    }
-    .image-preview {
-      text-align: center;
-      margin: 20px 0;
-    }
-    .image-preview img {
-      max-width: 100%;
-      height: auto;
-      border: 1px solid #ddd;
-      border-radius: 5px;
-    }
-  </style>
-</head>
-<body>
+
   <h1>Background Changer in React</h1>
 
   <p>A simple and visually appealing background color changer built with React and Tailwind CSS. This project demonstrates the use of React hooks and dynamic styling to create an interactive user interface.</p>
@@ -129,5 +76,4 @@
 
   <h2>License</h2>
   <p>This project is licensed under the <a href="LICENSE">MIT License</a>.</p>
-</body>
-</html>
+
