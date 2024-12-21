@@ -11,11 +11,6 @@
     <li><strong>Reset Functionality:</strong> Reset the background to the default color (olive) with a single click.</li>
   </ul>
 
-  <h2>Preview</h2>
-  <div class="image-preview">
-    <img src="https://via.placeholder.com/800x400?text=Background+Changer+Preview" alt="Background Changer Preview">
-  </div>
-
   <h2>Technologies Used</h2>
   <ul>
     <li><strong>React:</strong> A JavaScript library for building user interfaces.</li>
